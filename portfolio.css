@@ -187,4 +187,49 @@ gap: 77px;px;
 .resume-button{
     margin-top: 62px;
     text-align: center;
+    margin-bottom: 99px;
+}
+.footer{
+    gap: 452px;
+    background: #FFF8F3;;
+    display:flex;
+    margin-bottom: 130px;
+    
+    
+}
+.footer-title{
+    
+    font-weight: 700;
+font-size: 35px;
+text-align: center;
+color: #181818;
+margin-bottom: 20px;
+margin-top: 130px;
+}
+
+
+
+.looter-driscrip{
+    font-weight: 400;
+font-size: 16px;
+color: #474747;
+margin: 0 117px 20px 230px;
+
+}
+.img{
+    margin-left: 230px;
+}
+.input{
+    width: 461px;
+height: 64px;
+background: #FFFFFF;
+border-radius: 5px;
+margin: 20px 0;
+
+}
+.text{
+    width: 461px;
+height: 180px;
+background: #FFFFFF;
+border-radius: 5px;
 }
